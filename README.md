@@ -16,17 +16,6 @@ This project visualizes global trends in Data Science jobs and compensation usin
 - Excel/CSV for raw data
 - Data transformation within Tableau
 
-## 🔗 Tableau Public Link
-[🔗 View Dashboard on Tableau Public](#)  
-(*Replace with your actual link*)
-
-## 📸 Preview
-![Dashboard Screenshot](dashboard.png)
-
-## 📁 Files
-- `dashboard.png` – Main dashboard screenshot
-- `data_science_jobs.csv` – (Optional) Sample dataset
-- `dashboard-insights.pdf` – (Optional) Summary report
 
 ---
 
